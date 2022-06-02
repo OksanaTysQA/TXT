@@ -1,0 +1,4 @@
+Name : Oksana Tyshchenko
+Age : 28
+Pets : 0
+Salary : 800
