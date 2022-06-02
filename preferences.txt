@@ -1,0 +1,5 @@
+Film : Home alone
+Serial : Suits
+Food : Apples
+Season : Summer
+Country : Italy

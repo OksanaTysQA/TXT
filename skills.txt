@@ -1,0 +1,10 @@
+Skill : TheorySkill : HTTP,Skill : Postman,
+Skill : Terminal,
+Skill : GIT,
+Skill : Dev_Tools,
+Skill : Android_Studio,
+Skill : Charles,
+Skill : Fiddler,
+Skill : SQL,
+Skill : Jmeter
+
